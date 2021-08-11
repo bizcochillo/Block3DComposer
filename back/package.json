@@ -1,0 +1,19 @@
+{
+    "name": "b3dc-be",
+    "version": "1.0.0",
+    "description": "Backend for Block 3D Composer",
+    "main": "dist/app.js",
+    "author": "Abelardo Palma",
+    "license": "MIT",
+    "scripts": {
+        "start": "tsc && node dist/app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "devDependencies": {
+        "typescript": "^4.3.5",
+        "tslint": "^6.1.3"
+    },
+    "dependencies": {
+
+    }
+}
